@@ -1,0 +1,9 @@
+/data
+*.gz
+*.txt
+*.pkl
+*.pdf
+*.pt
+*.csv
+*.md
+*.pdf
